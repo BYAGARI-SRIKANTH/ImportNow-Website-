@@ -1,0 +1,6 @@
+{
+  "name": "ImportNow",
+  "description": "End-to-end imports from China to India: product sourcing, factory inspection, shipping, customs clearance and doorstep delivery. Own company in Shanghai. Trusted by 500+ Indian businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
